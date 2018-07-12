@@ -1,2 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/
+my_cred.py
+__pycache__/
