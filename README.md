@@ -1,4 +1,3 @@
 # Live Twitter Sentiment Tracker
 
-
-![](doc/sentiment_analysis.gif)
+<img src="doc/sentiment_analysis.gif" width="350">
